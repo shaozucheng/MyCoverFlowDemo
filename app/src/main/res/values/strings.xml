@@ -1,8 +1,14 @@
 <resources>
     <string name="app_name">MyCoverFlowDemo</string>
-    <string name="title1">God of War Ascension</string>
-    <string name="title2">Assassin\'s Creed III</string>
-    <string name="title3">Hitman Absolution</string>
-    <string name="title4">Dishonored</string>
+    <string name="title1">第一张图片</string>
+    <string name="title2">第二张图片</string>
+    <string name="title3">第三张图片</string>
+    <string name="title4">第四张图片</string>
+    <string name="title5">第五张图片</string>
+    <string name="title6">第六张图片</string>
+    <string name="title7">第七张图片</string>
+    <string name="title8">第八张图片</string>
+    <string name="title9">第九张图片</string>
+
     <string name="title_activity_second">SecondActivity</string>
 </resources>

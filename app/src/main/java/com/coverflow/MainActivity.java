@@ -53,11 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 return textView;
             }
         });
-//        final Animation in = AnimationUtils.loadAnimation(this, R.anim.slide_in_top);
-//        Animation out = AnimationUtils.loadAnimation(this, R.anim.slide_out_bottom);
-//        mTitle.setInAnimation(in);
-//        mTitle.setOutAnimation(out);
-
+        
         mAdapter = new CoverFlowAdapter(this);
         mAdapter.setData(mData);
         mCoverFlow = (FeatureCoverFlow) findViewById(R.id.coverflow);

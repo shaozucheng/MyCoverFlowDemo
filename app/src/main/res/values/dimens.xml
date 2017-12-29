@@ -6,4 +6,8 @@
     <dimen name="cover_width">120dp</dimen>
     <dimen name="cover_height">180dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="space_500dp">500dp</dimen>
+    <dimen name="space_300dp">300dp</dimen>
+    <dimen name="space_600dp">600dp</dimen>
+    <dimen name="space_650dp">650dp</dimen>
 </resources>

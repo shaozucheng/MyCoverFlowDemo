@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                 return textView;
             }
         });
-        
+
         mAdapter = new CoverFlowAdapter(this);
         mAdapter.setData(mData);
         mCoverFlow = (FeatureCoverFlow) findViewById(R.id.coverflow);
@@ -68,7 +68,6 @@ public class MainActivity extends AppCompatActivity {
                     GameEntity entity = (GameEntity) imageView.getTag();
                     Toast.makeText(MainActivity.this, entity.titleResId, Toast.LENGTH_SHORT).show();
                 }
-
             }
         });
 

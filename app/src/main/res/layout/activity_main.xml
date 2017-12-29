@@ -20,9 +20,9 @@
     <it.moondroid.coverflow.components.ui.containers.FeatureCoverFlow
         android:id="@+id/coverflow"
         android:layout_width="match_parent"
-        android:layout_height="600dp"
-        coverflow:coverHeight="300dp"
-        coverflow:coverWidth="500dp"
+        android:layout_height="@dimen/space_600dp"
+        coverflow:coverHeight="@dimen/space_300dp"
+        coverflow:coverWidth="@dimen/space_500dp"
         coverflow:maxScaleFactor="1.6"
         coverflow:reflectionGap="0px"
         coverflow:rotationThreshold="0.5"
